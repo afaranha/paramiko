@@ -16,7 +16,7 @@
     :target: https://app.codecov.io/gh/paramiko/paramiko
     :alt: Codecov
 
-Welcome to Paramiko (afaranha)!
+Welcome to Paramiko!
 ====================
 
 Paramiko is a pure-Python [#]_ (2.7, 3.4+) implementation of the SSHv2 protocol
